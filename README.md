@@ -1,7 +1,11 @@
 ## Yusuf Ziya CIVAN
-Hi. I am Ziya, a Software Developer from Isparta, Turkey. I am currently working at Akinon. I usually work as a Backend-Focused Software Developer. I have 2+ years of experience in high-scale and high-traffic products. I worked on different projects before, like an Ethereum network-based social media platform, an algorithmic trade bot, an embedded system for the Turkish Highway Authority, and I am currently working on the Omnitron project in my current company. Omnitron is an operational centre for managing all digital commerce business needs, such as channels, product information, content management, prices & inventory, promotions, and more.
-
-I usually use these technologies like Python, Django, DRF, and PostgreSQL, for REST Api projects, but I have experience in Frontend fundamentals as well.
+I am Ziya, a Software Developer from Turkey, currently working at Akinon. My primary
+expertise is backend development, and I have over 2 years of experience developing
+highly scalable, high-traffic products. I've worked on various projects across multiple
+technologies, including an Ethereum-based social media platform, an algorithmic
+trading bot, and an embedded system for the Turkish Highway Authority.
+I primarily use Python, Django, Django REST Framework, and PostgreSQL for REST-
+based projects, and I also have foundational experience in frontend technologies.
 
 ## Recent Work History
 I am working 2+ years at Akinon. I develop roadmap features, analyzing how we can implement new features into our current business logics.
