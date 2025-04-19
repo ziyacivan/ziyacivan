@@ -11,7 +11,7 @@ I am working 2+ years at Akinon. I develop roadmap features, analyzing how we ca
 - Responsibility of refactoring legacy code and business logic.
 - Improving test coverage rate for each module (We have 30+ project packages in our project)
 - Core responsibility of Channel-App library (I am working on this library alone)
-   - When a marketplace wants to send any product from one marketplace to another marketplace, it should create a sales channel and must use this library. The library works like an SDK (like ShopifySDK).
+   - When a marketplace wants to send any product from one marketplace to another marketplace, it should create a sales channel and must use this library. The library works like a SDK (like ShopifySDK).
  
 **Core completed features**:
 - Asynchronous support for async payment and refund transactions. Some banks or payment gateways work asynchronously for payments and refund transactions. Omnitron had no asynchronous support for these processes.
