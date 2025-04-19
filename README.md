@@ -3,7 +3,7 @@ Hi. I am Ziya, a Software Developer from Isparta, Turkey. I am currently working
 
 I usually use these technologies like Python, Django, DRF, and PostgreSQL, for REST Api projects, but I have experience in Frontend fundamentals as well.
 
-## Work History
+## Recent Work History
 I am working 2+ years at Akinon. I develop roadmap features, analyzing how we can implement new features into our current business logics. I am working like an architect, but I am not in an architect role.
 
 **Core responsibilities**:
