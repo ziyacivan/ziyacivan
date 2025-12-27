@@ -24,13 +24,6 @@ Based on my professional journey on LinkedIn and my projects here on GitHub, I a
 
 ---
 
-### 📊 GitHub Stats
-
-![Ziya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ziyacivan&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziyacivan&layout=compact&theme=tokyonight)
-
----
-
 ### 🤝 Let's Connect
 
 I am always open to collaborating on innovative projects or discussing new tech trends.
